@@ -1,0 +1,211 @@
+
+	--------------------	PROCESSING IMAGE #01	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 01.jpg & 01.txt
+[COMPLETED WITH IoU SCORE]: 0.750
+
+	--------------------	PROCESSING IMAGE #02	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 02.jpg & 02.txt
+[COMPLETED WITH IoU SCORE]: 0.810
+
+	--------------------	PROCESSING IMAGE #03	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 03.jpg & 03.txt
+[COMPLETED WITH IoU SCORE]: 0.760
+
+	--------------------	PROCESSING IMAGE #04	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 04.jpg & 04.txt
+[COMPLETED WITH IoU SCORE]: 0.758
+
+	--------------------	PROCESSING IMAGE #05	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 05.jpg & 05.txt
+[COMPLETED WITH IoU SCORE]: 0.800
+
+	--------------------	PROCESSING IMAGE #06	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 06.jpg & 06.txt
+[COMPLETED WITH IoU SCORE]: 0.741
+
+	--------------------	PROCESSING IMAGE #07	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 07.jpg & 07.txt
+[COMPLETED WITH IoU SCORE]: 0.749
+
+	--------------------	PROCESSING IMAGE #08	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 08.jpg & 08.txt
+[COMPLETED WITH IoU SCORE]: 0.830
+
+	--------------------	PROCESSING IMAGE #09	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 09.jpg & 09.txt
+[COMPLETED WITH IoU SCORE]: 0.716
+
+	--------------------	PROCESSING IMAGE #10	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 10.jpg & 10.txt
+[COMPLETED WITH IoU SCORE]: 0.649
+
+	--------------------	PROCESSING IMAGE #11	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 11.jpg & 11.txt
+[COMPLETED WITH IoU SCORE]: 0.717
+
+	--------------------	PROCESSING IMAGE #12	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 12.jpg & 12.txt
+[COMPLETED WITH IoU SCORE]: 0.757
+
+	--------------------	PROCESSING IMAGE #13	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 13.jpg & 13.txt
+[COMPLETED WITH IoU SCORE]: 0.750
+
+	--------------------	PROCESSING IMAGE #14	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 14.jpg & 14.txt
+[COMPLETED WITH IoU SCORE]: 0.780
+
+	--------------------	PROCESSING IMAGE #15	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 15.jpg & 15.txt
+[COMPLETED WITH IoU SCORE]: 0.700
+
+	--------------------	PROCESSING IMAGE #16	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 16.jpg & 16.txt
+[COMPLETED WITH IoU SCORE]: 0.765
+
+	--------------------	PROCESSING IMAGE #17	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 17.jpg & 17.txt
+[COMPLETED WITH IoU SCORE]: 0.790
+
+	--------------------	PROCESSING IMAGE #18	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 18.jpg & 18.txt
+[COMPLETED WITH IoU SCORE]: 0.744
+
+	--------------------	PROCESSING IMAGE #19	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 19.jpg & 19.txt
+[COMPLETED WITH IoU SCORE]: 0.711
+
+	--------------------	PROCESSING IMAGE #20	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 20.jpg & 20.txt
+[COMPLETED WITH IoU SCORE]: 0.776
+
+	--------------------	PROCESSING IMAGE #21	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 21.jpg & 21.txt
+[COMPLETED WITH IoU SCORE]: 0.763
+
+	--------------------	PROCESSING IMAGE #22	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 22.jpg & 22.txt
+[COMPLETED WITH IoU SCORE]: 0.437
+
+	--------------------	PROCESSING IMAGE #23	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 23.jpg & 23.txt
+[COMPLETED WITH IoU SCORE]: 0.636
+
+	--------------------	PROCESSING IMAGE #24	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 24.jpg & 24.txt
+[COMPLETED WITH IoU SCORE]: 0.672
+
+	--------------------	PROCESSING IMAGE #25	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 25.jpg & 25.txt
+[COMPLETED WITH IoU SCORE]: 0.660
+
+	--------------------	PROCESSING IMAGE #26	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 26.jpg & 26.txt
+[COMPLETED WITH IoU SCORE]: 0.653
+
+	--------------------	PROCESSING IMAGE #27	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 27.jpg & 27.txt
+[COMPLETED WITH IoU SCORE]: 0.597
+
+	--------------------	PROCESSING IMAGE #28	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 28.jpg & 28.txt
+[COMPLETED WITH IoU SCORE]: 0.732
+
+	--------------------	PROCESSING IMAGE #29	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 29.jpg & 29.txt
+[COMPLETED WITH IoU SCORE]: 0.516
+
+	--------------------	PROCESSING IMAGE #30	--------------------	
+[READING]
+[DETECTING]
+[SAVING]
+Saved: 30.jpg & 30.txt
+[COMPLETED WITH IoU SCORE]: 0.766
+
