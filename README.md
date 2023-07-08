@@ -6,7 +6,7 @@ Team members: **Onur Akman**, **Henrik Adrian Hansen**, **Matthias Schmitz**
 Detecting bounding boxes surrounding the human hand in the given input image. Used transfer learning with YOLOv3. Fully developed with Python.
 Output is constructed by fusing the results of multiple weights, and then OpenCV's non-maximum suppression. Each one of the weights used in this step is from the same architecture (YOLOv3) but fine-tuned on a different dataset. This enabled us to use the strengths of each one of them and make up for their weaknesses.
 
-![Output of Phase 1](https://i.hizliresim.com/j2vaa8k.PNG)
+![Output of Phase 1](https://i.hizliresim.com/a3zydv5.PNG)
 
 ## Phase 2
 
